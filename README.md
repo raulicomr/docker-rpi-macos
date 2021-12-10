@@ -1,13 +1,13 @@
-#Build a customized RPi3 bootable image with Docker from macOS Monterey (and run it in QEMU)
+# Build a customized RPi3 bootable image with Docker from macOS Monterey (and run it in QEMU)
 
-###Prerequisites
+### Prerequisites
 
 - macOS BigSur or Monterey, with brew tool installed (see [https://brew.sh/](https://brew.sh/) for more info)
 - Docker Desktop 4.3.0 or later
 - Xcode 13.1 or above
 - macFUSE 4.2.3 or above from here: [https://github.com/osxfuse/osxfuse/releases](), once installed you will have to restart the machine.
 
-####Packages to install from brew
+#### Packages to install from brew
 
 1. Install *qemu* to emulate the docker RPi images:
 
