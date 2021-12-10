@@ -1,5 +1,7 @@
 # Build a customized RPi3 bootable image with Docker from macOS Monterey (and run it in QEMU)
 
+This guide will show you how to prepare a bootable image for Raspberry Pi in macOS customized with docker.
+
 ### Prerequisites
 
 - macOS BigSur or Monterey, with brew tool installed (see [https://brew.sh/](https://brew.sh/) for more info)
